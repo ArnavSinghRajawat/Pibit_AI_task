@@ -1,0 +1,20 @@
+I have a resume with the following content:
+
+[Paste your resume text here]
+
+Please analyze the resume and generate a JSON object containing the following information:
+
+name: Full name of the candidate
+contact: Email address and phone number (if available)
+summary: A brief overview of the candidate's skills and experience (if present)
+work_experience: A list of work experience entries, each containing:
+company: Name of the company
+title: Job title held
+dates: Dates of employment (start and end)
+descriptions: A list of bullet points describing responsibilities and achievements
+skills: A list of the candidate's skills (technical and soft skills)
+education: A list of educational qualifications, each containing:
+institution: Name of the educational institution
+degree: Degree or diploma obtained
+dates: Dates of attendance (start and end, optional)
+
