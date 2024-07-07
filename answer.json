@@ -1,0 +1,65 @@
+{
+  "name": "Arnav Singh Rajawat",
+  "contact": {
+    "email": "ar0472@srmist.edu.in",
+    "phone": "+91 9575162923"
+  },
+  "summary": "Experienced in Python, UI/UX, Machine Learning, C++, MySQL, HTML/CSS/JavaScript. Skilled in tools like Visual Studio, PyCharm, Figma, Wordpress, Amazon Workspace, Scikit-Learn. Proficient in Windows, macOS, Linux. Winner of 2024 Ideathon (ranked 9/80 teams) and served as Organising Committee member of Hacknova 24-hour hackathon. Class Representative in 2021. GitHub: Arnav Singh, HackerRank: Arnav Singh, LinkedIn: Arnav Singh, Portfolio: Arnav Singh.",
+  "work_experience": [
+    {
+      "company": "BIZWIT RESEARCH AND CONSULTING LLP",
+      "title": "Web/Wordpress developer intern",
+      "dates": "12 June 2023 – 12 July 2023",
+      "descriptions": [
+        "Managed and developed the company’s primary website",
+        "Created the Global News Index project",
+        "Contributed to the development of Safe Place to Work website",
+        "Enhanced skills in web development and WordPress",
+        "Collaborated with a team to deliver high-quality web solutions"
+      ]
+    }
+  ],
+  "skills": {
+    "programming": [
+      "Python",
+      "UI/UX",
+      "Machine Learning",
+      "C++",
+      "MySQL",
+      "HTML/CSS/JavaScript"
+    ],
+    "tools_applications": [
+      "Visual Studio",
+      "PyCharm",
+      "Figma",
+      "Wordpress",
+      "Amazon Workspace",
+      "Scikit-Learn"
+    ],
+    "operating_systems": [
+      "Windows",
+      "macOS",
+      "Linux"
+    ]
+  },
+  "education": [
+    {
+      "institution": "SRM UNIVERSITY CHENNAI, TN",
+      "degree": "Computer Science and Engineering",
+      "dates": "2021 - 2025",
+      "cgpa": "8.77"
+    },
+    {
+      "institution": "DELHI PUBLIC SCHOOL, Gwalior",
+      "degree": "X CBSE board",
+      "dates": "2019",
+      "percentage": "80.40%"
+    },
+    {
+      "institution": "KIDDEYS CORNER SCHOOL, Gwalior",
+      "degree": "XII CBSE board",
+      "dates": "2021",
+      "percentage": "80.60%"
+    }
+  ]
+}
